@@ -1,0 +1,315 @@
+{"text": "Sold 10 Maggi to Ramesh for cash", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Udhaar sale 10 Maggi to Ramesh @12", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "सुरेश को 5 राइस 1kg नकद बेचे @60", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "सुरेश को उधार में 5 चावल दिए साठ रुपये किलो", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Meena ko 2 oil diya UPI se 140 per litre", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Meena udhaar oil 3 litre @140", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "કિરણને 4 શુગર વેચ્યું કેશ @45", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "કિરણને ઉધાર શુગર 4 કિલો 45 રૂપિયે", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Cash sale: 20 Parle-G packets to Amit at 10 each", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Priya ne tea 1kg liya UPI 250", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "भारत जी को आटा 2 बैग उधार @220", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "જયાને 6 સાબુ કેશ વેચ્યા ત્રીસ રૂપિયા", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Raju ko biscuits 15 pkt cash @20", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "नीता को 10 लीटर दूध उधार 28 रुपये लीटर", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 8 salt packs to Vijay cash Rs 20", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "હેમાને દાળ 3 કિલો UPI @120", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Gopal udhaar namkeen 5 pkt 40", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Anita bought 2 shampoo cash 180 each", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "दीपक को 30 अंडे नकद 6 रुपये", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Pooja bread 4 UPI @35", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Bought 50 Rice 1kg from Wholesale Mart cash @48", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Purchase on credit 50 Rice from Wholesale Mart @48", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "पटेल ट्रेडर्स से 20 ऑयल खरीदा UPI @120", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Patel Traders pase thi sugar 30 kilo udhaar @38", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Shree se Maggi 100 pkt purchase cash @9", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Credit purchase 200 Parle-G from Shree @8", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "डेयरी से 40 लीटर दूध नकद @24", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "એગ્રો સપ્લાયથી આટા 25 બેગ UPI @190", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Local mill se dal 15kg udhaar @95", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Purchased 40 namkeen from Snack Hub cash 28", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Ramesh paid 500 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Ramesh ne 500 UPI kiya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "सुरेश ने 300 नकद उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Meena e 420 UPI thi udhaar bharyu", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Received 1000 from Bharat", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "नीता से 280 UPI मिला", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Gopal se 200 cash collection", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Priya settled 250 via UPI", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "કિરણ પાસેથી 180 કેશ મળ્યા", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Vijay ne 160 cash diya", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Paid Wholesale Mart 2000 UPI", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "पटेल ट्रेडर्स को 1500 नकद दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "શ્રી ડિસ્ટ્રિબ્યુટર્સને 900 UPI ચૂકવ્યા", "input_type": "text", "language": "gu", "intent": "record_payment", "command": "payment"}
+{"text": "Dairy Co ko 960 cash payment", "input_type": "text", "language": "hinglish", "intent": "record_payment", "command": "payment"}
+{"text": "Paid Agro Supply 4750", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "लोकल मिल को 1425 नकद भुगतान", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "Paid shop rent 5000 cash", "input_type": "text", "language": "en", "intent": "record_expense", "command": "expense"}
+{"text": "बिजली बिल 1200 नकद दिया", "input_type": "text", "language": "hi", "intent": "record_expense", "command": "expense"}
+{"text": "ટ્રાન્સપોર્ટ ખર્ચ 300", "input_type": "text", "language": "gu", "intent": "record_expense", "command": "expense"}
+{"text": "Packaging kharcha 150 cash", "input_type": "text", "language": "hinglish", "intent": "record_expense", "command": "expense"}
+{"text": "Staff tea expense 80", "input_type": "text", "language": "en", "intent": "record_expense", "command": "expense"}
+{"text": "दुकान मोबाइल रिचार्ज 199", "input_type": "text", "language": "hi", "intent": "record_expense", "command": "expense"}
+{"text": "દુકાન સફાઈ 100 રૂપિયા", "input_type": "text", "language": "gu", "intent": "record_expense", "command": "expense"}
+{"text": "Chhota kharcha 50", "input_type": "text", "language": "hinglish", "intent": "record_expense", "command": "expense"}
+{"text": "Add stock Maggi 50 pcs bulk upload", "input_type": "text", "language": "en", "intent": "add_stock", "command": "add_stock"}
+{"text": "स्टॉक सुधारो शुगर -2 करेक्शन", "input_type": "text", "language": "hi", "intent": "add_stock", "command": "stock_correction"}
+{"text": "Maggi kitna stock hai?", "input_type": "text", "language": "hinglish", "intent": "stock_query", "command": "stock_query"}
+{"text": "चावल का स्टॉक कितना है?", "input_type": "text", "language": "hi", "intent": "stock_query", "command": "stock_query"}
+{"text": "ઓઈલનો સ્ટોક કેટલો?", "input_type": "text", "language": "gu", "intent": "stock_query", "command": "stock_query"}
+{"text": "कौन सा सामान कम है?", "input_type": "text", "language": "hi", "intent": "low_stock", "command": "low_stock"}
+{"text": "Show low stock items", "input_type": "text", "language": "en", "intent": "low_stock", "command": "low_stock"}
+{"text": "Rice ka stock update karo 120 pe", "input_type": "text", "language": "hinglish", "intent": "add_stock", "command": "stock_set"}
+{"text": "Voice: aaj sugar stock check karna hai", "input_type": "voice", "language": "hinglish", "intent": "stock_query", "command": "stock_query"}
+{"text": "Ramesh ka kitna udhaar hai?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "What is balance of Suresh?", "input_type": "text", "language": "en", "intent": "party_balance", "command": "party_balance"}
+{"text": "मीना का बकाया कितना है?", "input_type": "text", "language": "hi", "intent": "party_balance", "command": "party_balance"}
+{"text": "કિરણનું બાકી કેટલું?", "input_type": "text", "language": "gu", "intent": "party_balance", "command": "party_balance"}
+{"text": "Show Bharat ledger", "input_type": "text", "language": "en", "intent": "party_balance", "command": "party_balance"}
+{"text": "Gopal pending amount?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "नीता का खाता दिखाओ", "input_type": "text", "language": "hi", "intent": "party_balance", "command": "party_balance"}
+{"text": "Priya udhaar?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "Kaun ka udhaar pending hai?", "input_type": "text", "language": "hinglish", "intent": "list_dues", "command": "list_dues"}
+{"text": "List all dues", "input_type": "text", "language": "en", "intent": "list_dues", "command": "list_dues"}
+{"text": "सभी उधार दिखाओ", "input_type": "text", "language": "hi", "intent": "list_dues", "command": "list_dues"}
+{"text": "Badha udhaar ni yaadi", "input_type": "text", "language": "gu", "intent": "list_dues", "command": "list_dues"}
+{"text": "Today collection pending?", "input_type": "text", "language": "en", "intent": "list_dues", "command": "list_dues"}
+{"text": "Aaj ka profit kitna?", "input_type": "text", "language": "hinglish", "intent": "profit_loss", "command": "profit_loss"}
+{"text": "This month P&L", "input_type": "text", "language": "en", "intent": "profit_loss", "command": "profit_loss"}
+{"text": "इस हफ्ते का मुनाफा", "input_type": "text", "language": "hi", "intent": "profit_loss", "command": "profit_loss"}
+{"text": "આ મહિનાનું નફો નુકસાન", "input_type": "text", "language": "gu", "intent": "profit_loss", "command": "profit_loss"}
+{"text": "Show profit and loss from 1 Jul to 18 Jul", "input_type": "text", "language": "en", "intent": "profit_loss", "command": "profit_loss"}
+{"text": "Cash balance?", "input_type": "text", "language": "en", "intent": "cash_balance", "command": "cash_balance"}
+{"text": "Kitna cash hai dukaan pe?", "input_type": "text", "language": "hinglish", "intent": "cash_balance", "command": "cash_balance"}
+{"text": "कैश कितना बचा है?", "input_type": "text", "language": "hi", "intent": "cash_balance", "command": "cash_balance"}
+{"text": "કેશ બેલેન્સ કેટલું?", "input_type": "text", "language": "gu", "intent": "cash_balance", "command": "cash_balance"}
+{"text": "Yes confirm", "input_type": "text", "language": "en", "intent": "confirm", "command": "confirm"}
+{"text": "OK save", "input_type": "text", "language": "en", "intent": "confirm", "command": "confirm"}
+{"text": "हाँ सही है", "input_type": "text", "language": "hi", "intent": "confirm", "command": "confirm"}
+{"text": "હા સાચું છે", "input_type": "text", "language": "gu", "intent": "confirm", "command": "confirm"}
+{"text": "Haan kar do", "input_type": "text", "language": "hinglish", "intent": "confirm", "command": "confirm"}
+{"text": "Confirm karo", "input_type": "text", "language": "hinglish", "intent": "confirm", "command": "confirm"}
+{"text": "No cancel", "input_type": "text", "language": "en", "intent": "reject", "command": "reject"}
+{"text": "Reject", "input_type": "text", "language": "en", "intent": "reject", "command": "reject"}
+{"text": "नहीं गलत है", "input_type": "text", "language": "hi", "intent": "reject", "command": "reject"}
+{"text": "ના રદ કરો", "input_type": "text", "language": "gu", "intent": "reject", "command": "reject"}
+{"text": "Mat karo galat hai", "input_type": "text", "language": "hinglish", "intent": "reject", "command": "reject"}
+{"text": "Cancel transaction", "input_type": "text", "language": "en", "intent": "reject", "command": "reject"}
+{"text": "Galat entry thi — Ramesh sale 10 nahi 8 Maggi thi", "input_type": "text", "language": "hinglish", "intent": "correct_entry", "command": "correct_entry"}
+{"text": "पिछली एंट्री डिलीट करो सुरेश वाले चावल की", "input_type": "text", "language": "hi", "intent": "correct_entry", "command": "void_entry"}
+{"text": "Hi", "input_type": "text", "language": "en", "intent": "greeting", "command": "greeting"}
+{"text": "Namaste", "input_type": "text", "language": "hi", "intent": "greeting", "command": "greeting"}
+{"text": "Kem cho", "input_type": "text", "language": "gu", "intent": "greeting", "command": "greeting"}
+{"text": "Hello LedgerBot", "input_type": "text", "language": "en", "intent": "greeting", "command": "greeting"}
+{"text": "Help", "input_type": "text", "language": "en", "intent": "help", "command": "help"}
+{"text": "Kaise use karu?", "input_type": "text", "language": "hinglish", "intent": "help", "command": "help"}
+{"text": "मदद चाहिए", "input_type": "text", "language": "hi", "intent": "help", "command": "help"}
+{"text": "મદદ", "input_type": "text", "language": "gu", "intent": "help", "command": "help"}
+{"text": "Cricket score kya hai?", "input_type": "text", "language": "hinglish", "intent": "unknown", "command": "unknown"}
+{"text": "Weather tomorrow?", "input_type": "text", "language": "en", "intent": "unknown", "command": "unknown"}
+{"text": "म्यूजिक चलाओ", "input_type": "text", "language": "hi", "intent": "unknown", "command": "unknown"}
+{"text": "OCR: Invoice No INV-118\nPatel Traders\nOil 1L x 12 = 1440\nSugar 10kg x 40 = 400\nTotal 1840 Due", "input_type": "image", "language": "en", "intent": "record_purchase", "command": "purchase_bill"}
+{"text": "OCR बिल: रामेश - मैगी 10 x 12 = 120 उधार", "input_type": "image", "language": "hi", "intent": "record_sale", "command": "sale_bill"}
+{"text": "Photo bill unclear — only total 750 visible, no party name", "input_type": "image", "language": "en", "intent": "unknown", "command": "needs_clarification"}
+{"text": "Voice transcript: aaj ramesh ko bees parle g cash beche das rupaye packet", "input_type": "voice", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Voice: સુરેશ પાસેથી પાંચસો રૂપિયા ઉધાર વસૂલ્યા", "input_type": "voice", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Voice noisy: uhmm oil... do litre... meena... upi", "input_type": "voice", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Ramesh 500", "input_type": "text", "language": "en", "intent": "unknown", "command": "needs_clarification"}
+{"text": "10 Maggi", "input_type": "text", "language": "en", "intent": "unknown", "command": "needs_clarification"}
+{"text": "Sale to new customer Mohan soap 3 @30 cash", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Supplier new: Krishna Foods — bought tea 10kg @200 credit", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "CSV row: product=Salt,stock=100,price=20,category=grocery", "input_type": "csv", "language": "en", "intent": "add_stock", "command": "bulk_upload"}
+{"text": "Sold 1 Maggi to Ramesh @ 12 cash", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Suresh को 2 Parle-G बेचा @10 udhaar", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Meena ne 3 Soap vechyu @30 UPI", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Kiran ko 4 Tea becha @250 cash", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 5 Dal to Amit @ 120 udhaar", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Priya को 1 Salt बेचा @20 UPI", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Jaya ne 2 Sugar vechyu @45 cash", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Raju ko 3 Oil 1L becha @140 udhaar", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 4 Rice 1kg to Ramesh @ 60 UPI", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Suresh को 5 Bread बेचा @35 cash", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Meena ne 1 Maggi vechyu @12 udhaar", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Kiran ko 2 Parle-G becha @10 UPI", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 3 Soap to Amit @ 30 cash", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Priya को 4 Tea बेचा @250 udhaar", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Jaya ne 5 Dal vechyu @120 UPI", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Raju ko 1 Salt becha @20 cash", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 2 Sugar to Ramesh @ 45 udhaar", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Suresh को 3 Oil 1L बेचा @140 UPI", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Meena ne 4 Rice 1kg vechyu @60 cash", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Kiran ko 5 Bread becha @35 udhaar", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 1 Maggi to Amit @ 12 UPI", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Priya को 2 Parle-G बेचा @10 cash", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Jaya ne 3 Soap vechyu @30 udhaar", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Raju ko 4 Tea becha @250 UPI", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 5 Dal to Ramesh @ 120 cash", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Suresh को 1 Salt बेचा @20 udhaar", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Meena ne 2 Sugar vechyu @45 UPI", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Kiran ko 3 Oil 1L becha @140 cash", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 4 Rice 1kg to Amit @ 60 udhaar", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Priya को 5 Bread बेचा @35 UPI", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Jaya ne 1 Maggi vechyu @12 cash", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Raju ko 2 Parle-G becha @10 udhaar", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 3 Soap to Ramesh @ 30 UPI", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Suresh को 4 Tea बेचा @250 cash", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Meena ne 5 Dal vechyu @120 udhaar", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Kiran ko 1 Salt becha @20 UPI", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Sold 2 Sugar to Amit @ 45 cash", "input_type": "text", "language": "en", "intent": "record_sale", "command": "sale"}
+{"text": "Priya को 3 Oil 1L बेचा @140 udhaar", "input_type": "text", "language": "hi", "intent": "record_sale", "command": "sale"}
+{"text": "Jaya ne 4 Rice 1kg vechyu @60 UPI", "input_type": "text", "language": "gu", "intent": "record_sale", "command": "sale"}
+{"text": "Raju ko 5 Bread becha @35 cash", "input_type": "text", "language": "hinglish", "intent": "record_sale", "command": "sale"}
+{"text": "Bought 5 Maggi from Wholesale Mart @ 7 cash", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Patel Traders से 6 Parle-G खरीदा @5 udhaar", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Shree Distributors se 7 Soap kharida @25 UPI", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Dairy Co pase thi 8 Tea kharidyu @245 cash", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 9 Dal from Local Mill @ 115 udhaar", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Wholesale Mart से 10 Salt खरीदा @15 UPI", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Patel Traders se 11 Sugar kharida @40 cash", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Shree Distributors pase thi 12 Oil 1L kharidyu @135 udhaar", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 13 Rice 1kg from Dairy Co @ 55 UPI", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Local Mill से 14 Bread खरीदा @30 cash", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Wholesale Mart se 5 Maggi kharida @7 udhaar", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Patel Traders pase thi 6 Parle-G kharidyu @5 UPI", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 7 Soap from Shree Distributors @ 25 cash", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Dairy Co से 8 Tea खरीदा @245 udhaar", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Local Mill se 9 Dal kharida @115 UPI", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Wholesale Mart pase thi 10 Salt kharidyu @15 cash", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 11 Sugar from Patel Traders @ 40 udhaar", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Shree Distributors से 12 Oil 1L खरीदा @135 UPI", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Dairy Co se 13 Rice 1kg kharida @55 cash", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Local Mill pase thi 14 Bread kharidyu @30 udhaar", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 5 Maggi from Wholesale Mart @ 7 UPI", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Patel Traders से 6 Parle-G खरीदा @5 cash", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Shree Distributors se 7 Soap kharida @25 udhaar", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Dairy Co pase thi 8 Tea kharidyu @245 UPI", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 9 Dal from Local Mill @ 115 cash", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Wholesale Mart से 10 Salt खरीदा @15 udhaar", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Patel Traders se 11 Sugar kharida @40 UPI", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Shree Distributors pase thi 12 Oil 1L kharidyu @135 cash", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 13 Rice 1kg from Dairy Co @ 55 udhaar", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Local Mill से 14 Bread खरीदा @30 UPI", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Wholesale Mart se 5 Maggi kharida @7 cash", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Patel Traders pase thi 6 Parle-G kharidyu @5 udhaar", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 7 Soap from Shree Distributors @ 25 UPI", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Dairy Co से 8 Tea खरीदा @245 cash", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Local Mill se 9 Dal kharida @115 udhaar", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Wholesale Mart pase thi 10 Salt kharidyu @15 UPI", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Bought 11 Sugar from Patel Traders @ 40 cash", "input_type": "text", "language": "en", "intent": "record_purchase", "command": "purchase"}
+{"text": "Shree Distributors से 12 Oil 1L खरीदा @135 udhaar", "input_type": "text", "language": "hi", "intent": "record_purchase", "command": "purchase"}
+{"text": "Dairy Co se 13 Rice 1kg kharida @55 UPI", "input_type": "text", "language": "hinglish", "intent": "record_purchase", "command": "purchase"}
+{"text": "Local Mill pase thi 14 Bread kharidyu @30 cash", "input_type": "text", "language": "gu", "intent": "record_purchase", "command": "purchase"}
+{"text": "Ramesh paid 100 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Suresh ने 150 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Meena ne 200 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Kiran pase thi 250 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Amit paid 300 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Priya ने 350 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Jaya ne 400 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Raju pase thi 450 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Ramesh paid 500 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Suresh ने 550 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Meena ne 600 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Kiran pase thi 650 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Amit paid 700 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Priya ने 750 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Jaya ne 800 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Raju pase thi 850 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Ramesh paid 900 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Suresh ने 950 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Meena ne 100 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Kiran pase thi 150 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Amit paid 200 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Priya ने 250 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Jaya ne 300 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Raju pase thi 350 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Ramesh paid 400 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Suresh ने 450 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Meena ne 500 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Kiran pase thi 550 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Amit paid 600 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Priya ने 650 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Jaya ne 700 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Raju pase thi 750 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Ramesh paid 800 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Suresh ने 850 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Meena ne 900 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Kiran pase thi 950 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Amit paid 100 cash against udhaar", "input_type": "text", "language": "en", "intent": "record_receipt", "command": "receipt"}
+{"text": "Priya ने 150 UPI उधार चुकाया", "input_type": "text", "language": "hi", "intent": "record_receipt", "command": "receipt"}
+{"text": "Jaya ne 200 cash diya udhaar ka", "input_type": "text", "language": "hinglish", "intent": "record_receipt", "command": "receipt"}
+{"text": "Raju pase thi 250 UPI udhaar milya", "input_type": "text", "language": "gu", "intent": "record_receipt", "command": "receipt"}
+{"text": "Paid Wholesale Mart 500 cash", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "Patel Traders को 750 UPI दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "Shree Distributors ko 1000 cash payment", "input_type": "text", "language": "hinglish", "intent": "record_payment", "command": "payment"}
+{"text": "Dairy Co ne 1250 UPI chukavya", "input_type": "text", "language": "gu", "intent": "record_payment", "command": "payment"}
+{"text": "Paid Local Mill 1500 cash", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "Wholesale Mart को 1750 UPI दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "Patel Traders ko 2000 cash payment", "input_type": "text", "language": "hinglish", "intent": "record_payment", "command": "payment"}
+{"text": "Shree Distributors ne 2250 UPI chukavya", "input_type": "text", "language": "gu", "intent": "record_payment", "command": "payment"}
+{"text": "Paid Dairy Co 2500 cash", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "Local Mill को 2750 UPI दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "Wholesale Mart ko 3000 cash payment", "input_type": "text", "language": "hinglish", "intent": "record_payment", "command": "payment"}
+{"text": "Patel Traders ne 3250 UPI chukavya", "input_type": "text", "language": "gu", "intent": "record_payment", "command": "payment"}
+{"text": "Paid Shree Distributors 3500 cash", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "Dairy Co को 3750 UPI दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "Local Mill ko 4000 cash payment", "input_type": "text", "language": "hinglish", "intent": "record_payment", "command": "payment"}
+{"text": "Wholesale Mart ne 4250 UPI chukavya", "input_type": "text", "language": "gu", "intent": "record_payment", "command": "payment"}
+{"text": "Paid Patel Traders 500 cash", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "Shree Distributors को 750 UPI दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "Dairy Co ko 1000 cash payment", "input_type": "text", "language": "hinglish", "intent": "record_payment", "command": "payment"}
+{"text": "Local Mill ne 1250 UPI chukavya", "input_type": "text", "language": "gu", "intent": "record_payment", "command": "payment"}
+{"text": "Paid Wholesale Mart 1500 cash", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "Patel Traders को 1750 UPI दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "Shree Distributors ko 2000 cash payment", "input_type": "text", "language": "hinglish", "intent": "record_payment", "command": "payment"}
+{"text": "Dairy Co ne 2250 UPI chukavya", "input_type": "text", "language": "gu", "intent": "record_payment", "command": "payment"}
+{"text": "Paid Local Mill 2500 cash", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "Wholesale Mart को 2750 UPI दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "Patel Traders ko 3000 cash payment", "input_type": "text", "language": "hinglish", "intent": "record_payment", "command": "payment"}
+{"text": "Shree Distributors ne 3250 UPI chukavya", "input_type": "text", "language": "gu", "intent": "record_payment", "command": "payment"}
+{"text": "Paid Dairy Co 3500 cash", "input_type": "text", "language": "en", "intent": "record_payment", "command": "payment"}
+{"text": "Local Mill को 3750 UPI दिए", "input_type": "text", "language": "hi", "intent": "record_payment", "command": "payment"}
+{"text": "What is balance of Ramesh?", "input_type": "text", "language": "en", "intent": "party_balance", "command": "party_balance"}
+{"text": "Suresh का बकाया कितना है?", "input_type": "text", "language": "hi", "intent": "party_balance", "command": "party_balance"}
+{"text": "Meena nu baaki ketlu?", "input_type": "text", "language": "gu", "intent": "party_balance", "command": "party_balance"}
+{"text": "Kiran ka kitna udhaar hai?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "What is balance of Amit?", "input_type": "text", "language": "en", "intent": "party_balance", "command": "party_balance"}
+{"text": "Priya का बकाया कितना है?", "input_type": "text", "language": "hi", "intent": "party_balance", "command": "party_balance"}
+{"text": "Jaya nu baaki ketlu?", "input_type": "text", "language": "gu", "intent": "party_balance", "command": "party_balance"}
+{"text": "Raju ka kitna udhaar hai?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "What is balance of Ramesh?", "input_type": "text", "language": "en", "intent": "party_balance", "command": "party_balance"}
+{"text": "Suresh का बकाया कितना है?", "input_type": "text", "language": "hi", "intent": "party_balance", "command": "party_balance"}
+{"text": "Meena nu baaki ketlu?", "input_type": "text", "language": "gu", "intent": "party_balance", "command": "party_balance"}
+{"text": "Kiran ka kitna udhaar hai?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "What is balance of Amit?", "input_type": "text", "language": "en", "intent": "party_balance", "command": "party_balance"}
+{"text": "Priya का बकाया कितना है?", "input_type": "text", "language": "hi", "intent": "party_balance", "command": "party_balance"}
+{"text": "Jaya nu baaki ketlu?", "input_type": "text", "language": "gu", "intent": "party_balance", "command": "party_balance"}
+{"text": "Raju ka kitna udhaar hai?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "What is balance of Ramesh?", "input_type": "text", "language": "en", "intent": "party_balance", "command": "party_balance"}
+{"text": "Suresh का बकाया कितना है?", "input_type": "text", "language": "hi", "intent": "party_balance", "command": "party_balance"}
+{"text": "Meena nu baaki ketlu?", "input_type": "text", "language": "gu", "intent": "party_balance", "command": "party_balance"}
+{"text": "Kiran ka kitna udhaar hai?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "What is balance of Amit?", "input_type": "text", "language": "en", "intent": "party_balance", "command": "party_balance"}
+{"text": "Priya का बकाया कितना है?", "input_type": "text", "language": "hi", "intent": "party_balance", "command": "party_balance"}
+{"text": "Jaya nu baaki ketlu?", "input_type": "text", "language": "gu", "intent": "party_balance", "command": "party_balance"}
+{"text": "Raju ka kitna udhaar hai?", "input_type": "text", "language": "hinglish", "intent": "party_balance", "command": "party_balance"}
+{"text": "Stock of Maggi?", "input_type": "text", "language": "en", "intent": "stock_query", "command": "stock_query"}
+{"text": "Parle-G का स्टॉक कितना है?", "input_type": "text", "language": "hi", "intent": "stock_query", "command": "stock_query"}
+{"text": "Soap no stock ketlo?", "input_type": "text", "language": "gu", "intent": "stock_query", "command": "stock_query"}
+{"text": "Tea kitna stock hai?", "input_type": "text", "language": "hinglish", "intent": "stock_query", "command": "stock_query"}
+{"text": "Stock of Dal?", "input_type": "text", "language": "en", "intent": "stock_query", "command": "stock_query"}
+{"text": "Salt का स्टॉक कितना है?", "input_type": "text", "language": "hi", "intent": "stock_query", "command": "stock_query"}
+{"text": "Sugar no stock ketlo?", "input_type": "text", "language": "gu", "intent": "stock_query", "command": "stock_query"}
+{"text": "Oil 1L kitna stock hai?", "input_type": "text", "language": "hinglish", "intent": "stock_query", "command": "stock_query"}
+{"text": "Stock of Rice 1kg?", "input_type": "text", "language": "en", "intent": "stock_query", "command": "stock_query"}
+{"text": "Bread का स्टॉक कितना है?", "input_type": "text", "language": "hi", "intent": "stock_query", "command": "stock_query"}
+{"text": "Maggi no stock ketlo?", "input_type": "text", "language": "gu", "intent": "stock_query", "command": "stock_query"}
+{"text": "Parle-G kitna stock hai?", "input_type": "text", "language": "hinglish", "intent": "stock_query", "command": "stock_query"}
+{"text": "Stock of Soap?", "input_type": "text", "language": "en", "intent": "stock_query", "command": "stock_query"}
+{"text": "Tea का स्टॉक कितना है?", "input_type": "text", "language": "hi", "intent": "stock_query", "command": "stock_query"}
+{"text": "Dal no stock ketlo?", "input_type": "text", "language": "gu", "intent": "stock_query", "command": "stock_query"}
+{"text": "Salt kitna stock hai?", "input_type": "text", "language": "hinglish", "intent": "stock_query", "command": "stock_query"}
+{"text": "Stock of Sugar?", "input_type": "text", "language": "en", "intent": "stock_query", "command": "stock_query"}
+{"text": "Oil 1L का स्टॉक कितना है?", "input_type": "text", "language": "hi", "intent": "stock_query", "command": "stock_query"}
+{"text": "Rice 1kg no stock ketlo?", "input_type": "text", "language": "gu", "intent": "stock_query", "command": "stock_query"}
+{"text": "Bread kitna stock hai?", "input_type": "text", "language": "hinglish", "intent": "stock_query", "command": "stock_query"}
