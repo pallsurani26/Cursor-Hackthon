@@ -163,12 +163,19 @@ async function postTransaction(vendorId, extraction) {
     }
 
     // Best-effort stock decrement for named items with quantity
+    // Gujarati words like ખાંડ/khaand are already mapped to canonical names (Sugar)
+    const { resolveProductName } = require('../utils/gujaratiProducts');
     for (const item of items) {
       if (!item?.name || item.quantity == null) continue;
       const qty = Number(item.quantity);
       if (!Number.isFinite(qty) || qty === 0) continue;
 
-      const productId = `${vendorId}:${String(item.name)
+      const catalogName =
+        resolveProductName(item.name) ||
+        resolveProductName(item.name_original) ||
+        item.name;
+
+      const productId = `${vendorId}:${String(catalogName)
         .toLowerCase()
         .replace(/\s+/g, '_')}`;
 
@@ -176,7 +183,7 @@ async function postTransaction(vendorId, extraction) {
         `insert into products (id, vendor_id, product_name, stock, last_updated)
          values ($1, $2, $3, 0, now())
          on conflict (id) do nothing`,
-        [productId, vendorId, item.name]
+        [productId, vendorId, catalogName]
       );
 
       const updated = await client.query(

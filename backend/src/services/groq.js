@@ -1,4 +1,8 @@
 const { buildGujaratiExtractionHint } = require('../utils/gujaratiNormalize');
+const {
+  enrichParsedWithGujaratiProducts,
+  productLexiconForPrompt,
+} = require('../utils/gujaratiProducts');
 
 const GROQ_CHAT_URL = 'https://api.groq.com/openai/v1/chat/completions';
 const GROQ_TRANSCRIBE_URL = 'https://api.groq.com/openai/v1/audio/transcriptions';
@@ -18,7 +22,7 @@ STRICT RULES:
 - NEVER guess missing fields — use null.
 - NEVER do arithmetic. If the user says "400 cash 100 ramesh udhaar" extract those payment lines as stated; do not derive a total unless they also stated one.
 - Do NOT format a human confirmation message — extraction only.
-- KEEP party names and product names as the user wrote them (Gujarati/Hindi/English). Do not translate proper names.
+- KEEP party names as the user wrote them. For PRODUCTS: if the vendor uses a Gujarati kirana word, map it to the canonical English catalog name (e.g. ખાંડ / khaand / khand → Sugar). Put the mapped name in items[].name.
 - Numbers written in Gujarati/Hindi words should be converted to digits when clear. If unclear, null.
 
 Classify intent as exactly one of:
@@ -116,6 +120,25 @@ English / mixed:
 - "/ai-payment" usually settling udhaar (payment/receipt), not a new sale
 - "/ai-report" → statement_query
 - "/ai-stock" / "/ai-stock-bulk" → inventory_bulk when about stock levels
+
+
+=== GUJARATI KIRANA PRODUCT WORDS (map to canonical product name) ===
+- ખાંડ / khaand / khand / શક્કર → "Sugar"  (vendors say Khaand, NOT sugar)
+- ચોખા / chokha / chawal → "Rice"
+- આટો / aato / atta → "Wheat flour"
+- તેલ / tel → "Oil"
+- દૂધ / doodh / dudh → "Milk"
+- ચા / cha / chai → "Tea"
+- મઠુ / mithu / namak → "Salt"
+- દાળ / daal → "Dal"
+- ઘી / ghee → "Ghee"
+- બટાટા / batata → "Potato"
+- ડુંગળી / dungli → "Onion"
+- ટમેટા / tameta → "Tomato"
+- મરચુ / marchu → "Chilli"
+- હળદર / haldar → "Turmeric"
+- જીરુ / jeeru → "Cumin"
+- સાબુ / saabu → "Soap"
 
 Party role hints:
 - sale / receipt / customer udhaar → party.role = "customer"
@@ -392,6 +415,9 @@ async function extractIntent(rawText, options = {}) {
       `Low confidence (${parsed.confidence}) — please rephrase`;
     parsed.intent = 'unclear';
   }
+
+  // Map Gujarati product words (ખાંડ/khaand → Sugar) for catalog match
+  parsed = enrichParsedWithGujaratiProducts(parsed);
 
   return parsed;
 }

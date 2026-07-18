@@ -4,6 +4,8 @@
  * the original raw_input stored in the DB.
  */
 
+const { applyProductHints } = require('./gujaratiProducts');
+
 const SCRIPT_REPLACEMENTS = [
   [/\u0A95\u0AC7\u0AB6/g, ' cash '],
   [/\u0A89\u0AA7\u0ABE\u0AB0/g, ' udhaar '],
@@ -48,6 +50,8 @@ function buildGujaratiExtractionHint(rawText) {
   }
 
   hint = hint.replace(/\s+/g, ' ').trim();
+  // Annotate Gujarati product words: ખાંડ / khaand → (Sugar)
+  hint = applyProductHints(hint);
   if (hint === rawText.trim()) return '';
   return hint;
 }

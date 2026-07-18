@@ -52,7 +52,15 @@ function buildConfirmationSummary(parsed, command, language = 'en') {
         i.quantity != null
           ? `${i.quantity}${i.unit ? i.unit : ''}`
           : null;
-      return [qty, i.name].filter(Boolean).join(' ');
+      // Show Gujarati original too: Sugar (ખાંડ)
+      let label = i.name;
+      if (
+        i.name_original &&
+        String(i.name_original).toLowerCase() !== String(i.name).toLowerCase()
+      ) {
+        label = `${i.name} (${i.name_original})`;
+      }
+      return [qty, label].filter(Boolean).join(' ');
     });
 
   const paymentParts = (parsed.payments || [])

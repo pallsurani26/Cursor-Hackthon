@@ -27,6 +27,10 @@ const {
   buildExtractionUserMessage,
   extractIntent,
 } = require('../src/services/groq');
+const {
+  resolveProductName,
+  enrichParsedWithGujaratiProducts,
+} = require('../src/utils/gujaratiProducts');
 
 function check(name, fn) {
   try {
@@ -103,6 +107,28 @@ check('extraction user message includes language + hint', () => {
   );
   assert.ok(u.includes('Language: gu'), u);
   assert.ok(u.includes('Normalized hint:'), u);
+});
+
+
+check('khaand / Khaand maps to Sugar', () => {
+  assert.strictEqual(resolveProductName('khaand'), 'Sugar');
+  assert.strictEqual(resolveProductName('Khaand'), 'Sugar');
+  assert.strictEqual(resolveProductName('khand'), 'Sugar');
+  assert.strictEqual(resolveProductName("ખાંડ"), 'Sugar');
+});
+
+check('enrich parsed items khaand → Sugar', () => {
+  const enriched = enrichParsedWithGujaratiProducts({
+    items: [{ name: 'khaand', quantity: 2, unit: 'kg' }],
+  });
+  assert.strictEqual(enriched.items[0].name, 'Sugar');
+  assert.strictEqual(enriched.items[0].name_original, 'khaand');
+});
+
+check('hint annotates khaand as Sugar', () => {
+  const hint = buildGujaratiExtractionHint('Raju ne 2 kilo khaand vechyu cash');
+  assert.ok(/Sugar/i.test(hint), hint);
+  assert.ok(/khaand/i.test(hint), hint);
 });
 
 (async () => {
