@@ -1,11 +1,12 @@
 {
   "name": "ledgerbot",
   "version": "0.1.0",
-  "description": "LedgerBot — WhatsApp-native double-entry bookkeeping backend",
+  "description": "LedgerBot \u2014 WhatsApp-native double-entry bookkeeping backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node --watch server.js"
+    "dev": "node --watch server.js",
+    "test:gujarati": "node scripts/smoke-gujarati.js"
   },
   "engines": {
     "node": ">=20"
